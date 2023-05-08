@@ -1,3 +1,3 @@
-a=int(input())
-b=3.14*a*a
-print("%.2f"%b)
+n=int(input())
+a=3.14*n*n
+print("%.2f"%a)
